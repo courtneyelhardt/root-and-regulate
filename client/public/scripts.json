@@ -1,0 +1,168 @@
+{
+  "situations": [
+    {
+      "id": "meltdown",
+      "title": "Child Having a Meltdown",
+      "icon": "😭",
+      "scripts": [
+        "You're safe. Take your time. I'm right here.",
+        "I can hold this with you.",
+        "You don't have to handle this alone.",
+        "Your feelings are big right now, and that's okay. I'm staying with you.",
+        "Let's take some breaths together. You're safe."
+      ],
+      "principles": [
+        "Regulation before reasoning",
+        "Co-regulation: Your calm becomes their calm",
+        "A dysregulated child can't learn or connect"
+      ]
+    },
+    {
+      "id": "defiance",
+      "title": "Defiance or Refusal",
+      "icon": "🙅",
+      "scripts": [
+        "I hear that you don't want to. Let's figure this out together.",
+        "It seems like this feels hard for you right now.",
+        "You're safe with me, even when you're upset.",
+        "I'm not trying to control you—I'm trying to keep you safe.",
+        "What do you need right now?"
+      ],
+      "principles": [
+        "Defiance might really be fear",
+        "Behavior is communication, not character",
+        "Calm authority is power with, not power over"
+      ]
+    },
+    {
+      "id": "boundary",
+      "title": "Setting a Boundary",
+      "icon": "🛑",
+      "scripts": [
+        "I won't let you hurt anyone. Let's take a break until you're ready to be safe.",
+        "I care about you too much to let you act that way, but I'm still right here.",
+        "Here's what's safe, and I'll help you get there.",
+        "This is the limit, and I'm going to hold it because I love you.",
+        "I know what will happen if I do this. I know the adults will still care about me afterward."
+      ],
+      "principles": [
+        "Boundaries are bridges, not barriers",
+        "Consistency builds security",
+        "Boundaries communicate safety"
+      ]
+    },
+    {
+      "id": "behavior",
+      "title": "Challenging Behavior",
+      "icon": "⚡",
+      "scripts": [
+        "What's this behavior trying to tell me?",
+        "This behavior is communication, not character.",
+        "It seems mornings are hard for you. Let's figure out what would help.",
+        "You got angry when plans changed. That makes sense—you've had to handle a lot of surprises in life.",
+        "Do you still see me?"
+      ],
+      "principles": [
+        "Behavior is not the problem; it's the signal",
+        "Curiosity before correction",
+        "Look beneath the surface"
+      ]
+    },
+    {
+      "id": "repair",
+      "title": "After a Conflict",
+      "icon": "💚",
+      "scripts": [
+        "That was a tough moment. I care about you too much to let you act that way, but I'm still right here.",
+        "I got frustrated and raised my voice. That's not how I want to handle hard moments. Let's both take a breath and start again.",
+        "We both got upset. Let's try again.",
+        "I'm sorry I lost my cool. You deserve better from me.",
+        "Mistakes can be repaired. Let's figure this out together."
+      ],
+      "principles": [
+        "Repair strengthens attachment",
+        "Containment is never about perfection—it's about recovery",
+        "Big feelings don't make people leave"
+      ]
+    },
+    {
+      "id": "teaching",
+      "title": "Teaching Responsibility",
+      "icon": "📚",
+      "scripts": [
+        "Let's pause. Take a breath. Now say that in a respectful voice.",
+        "You made a mistake, and you can learn.",
+        "You can learn from this.",
+        "What could you do differently next time?",
+        "Mistakes are opportunities to learn and practice."
+      ],
+      "principles": [
+        "Teaching builds capacity",
+        "Shame blocks learning",
+        "Try again moments teach self-correction"
+      ]
+    },
+    {
+      "id": "transition",
+      "title": "Difficult Transitions",
+      "icon": "🔄",
+      "scripts": [
+        "I know changes are hard. Here's what's happening next.",
+        "Transitions can feel scary. I'm here to help you through it.",
+        "Let's talk about what's coming so you know what to expect.",
+        "You've handled hard changes before. You can do this.",
+        "I'll be with you the whole time."
+      ],
+      "principles": [
+        "Predictability creates safety",
+        "Transitions trigger survival responses",
+        "Structure helps children relax"
+      ]
+    },
+    {
+      "id": "identity",
+      "title": "Building Identity & Worth",
+      "icon": "⭐",
+      "scripts": [
+        "I see you.",
+        "You are capable.",
+        "You are worthy of love.",
+        "You are more than your behaviors.",
+        "I'm proud of how hard you're trying.",
+        "You belong here."
+      ],
+      "principles": [
+        "Identity is built through repeated experiences",
+        "Children internalize what we reflect",
+        "You are teaching who they are"
+      ]
+    },
+    {
+      "id": "overwhelmed",
+      "title": "When You're Overwhelmed",
+      "icon": "😮‍💨",
+      "scripts": [
+        "I need to take a breath before I respond.",
+        "Let me pause and ground myself.",
+        "I'm feeling overwhelmed. Let's both take a moment.",
+        "I need to calm my own nervous system first.",
+        "I'm going to step away for a minute so I can be the parent you need."
+      ],
+      "principles": [
+        "Your nervous system is the model",
+        "You can't pour from an empty cup",
+        "Regulation is leadership"
+      ]
+    }
+  ],
+  "quickPrinciples": [
+    "Regulation before reasoning",
+    "Behavior is communication, not character",
+    "Co-regulation: Your calm becomes their calm",
+    "Curiosity before correction",
+    "Connection over control",
+    "Boundaries are love",
+    "Repair strengthens trust",
+    "Safety is the foundation of all healing"
+  ]
+}
