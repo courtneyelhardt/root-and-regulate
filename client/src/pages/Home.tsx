@@ -117,13 +117,36 @@ export default function Home() {
       {/* Header */}
       <header className="border-b bg-card/50 backdrop-blur-sm sticky top-0 z-10">
         <div className="container py-6">
-          <div className="text-center">
-            <h1 className="text-4xl font-bold mb-2 text-foreground">
-              Healing Home Scripts
-            </h1>
-            <p className="text-muted-foreground max-w-2xl mx-auto">
-              Quick-access trauma-informed scripts for challenging moments with your child
-            </p>
+          <div className="flex flex-col items-center gap-4">
+            {/* Logos */}
+            <div className="flex items-center gap-6 flex-wrap justify-center">
+              <div className="w-24 h-24 rounded-full bg-white shadow-md flex items-center justify-center p-2">
+                <img 
+                  src="/elhardt-logo.png" 
+                  alt="Elhardt Family Wellness" 
+                  className="w-full h-full object-contain"
+                />
+              </div>
+              <div className="w-32 h-32 rounded-full bg-white shadow-md flex items-center justify-center p-3">
+                <img 
+                  src="/healing-home-logo.jpg" 
+                  alt="The Healing Home Approach" 
+                  className="w-full h-full object-contain"
+                />
+              </div>
+            </div>
+            
+            <div className="text-center">
+              <h1 className="text-4xl font-bold mb-2 text-foreground">
+                Root & Regulate
+              </h1>
+              <p className="text-muted-foreground max-w-2xl mx-auto">
+                Quick-access trauma-informed scripts for challenging moments with your child
+              </p>
+              <p className="text-sm text-muted-foreground mt-2">
+                by <strong>Elhardt Family Wellness</strong>
+              </p>
+            </div>
           </div>
         </div>
       </header>
@@ -198,8 +221,11 @@ export default function Home() {
           <p className="text-sm text-muted-foreground mb-2">
             Based on <strong>The Healing Home Approach™</strong>
           </p>
-          <p className="text-xs text-muted-foreground">
+          <p className="text-xs text-muted-foreground mb-3">
             Trauma-informed parenting rooted in neuroscience and attachment theory
+          </p>
+          <p className="text-xs text-muted-foreground">
+            © Elhardt Family Wellness • <em>breaking cycles, healing hearts</em>
           </p>
           <div className="mt-4 text-2xl">💚</div>
         </div>
