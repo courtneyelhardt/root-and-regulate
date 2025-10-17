@@ -1,6 +1,7 @@
 {
-  "buildCommand": "cd client && pnpm install && pnpm run build",
+  "version": 2,
+  "buildCommand": "pnpm install && cd client && pnpm run build",
   "outputDirectory": "client/dist",
-  "installCommand": "pnpm install --prefix client"
+  "installCommand": "pnpm install"
 }
 
